@@ -3,10 +3,11 @@
 You can use the [editor on GitHub](https://github.com/AYANayan123/AYANayan123.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Know your skill
 
+Help yourself to learn code and improve your skills. 
 
-
-
+---Know your skill
 Syntax highlighted code block
 
 # Header 1
