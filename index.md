@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ayan's personal website 
 
 You can use the [editor on GitHub](https://github.com/AYANayan123/AYANayan123.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
